@@ -60,3 +60,11 @@ typings/
 # jetbrains project files
 *.iml
 .idea/
+
+# Vagrant
+.vagrant/
+
+# Generated files
+public/bundle.js
+public/bundle.js.map
+

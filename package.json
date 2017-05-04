@@ -1,10 +1,10 @@
 {
-  "name": "wroot-strophe-client",
+  "name": "woot-strophe-client",
   "version": "1.0.0",
-  "description": "A proof-of-concept that performs Wroot-based real-time collaboration over XMPP",
+  "description": "A proof-of-concept that performs Woot-based real-time collaboration over XMPP",
   "main": "index.js",
   "keywords": [
-    "wroot",
+    "woot",
     "xmpp",
     "strophe"
   ],
